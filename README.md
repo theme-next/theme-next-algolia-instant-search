@@ -7,7 +7,7 @@
 Change dir to **NexT** directory. There must be `layout`, `source`, `languages` and other directories:
 
 ```sh
-$ cd hexo/themes/next
+$ cd themes/next
 $ ls
 bower.json  _config.yml  docs  gulpfile.coffee  languages  layout  LICENSE.md  package.json  README.md  scripts  source  test
 ```
